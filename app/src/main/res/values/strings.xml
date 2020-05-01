@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodeChallenge1_Week3</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="terms_and_conditions">I accept T&amp;C</string>
+    <string name="submit">Submit</string>
+    <string name="android_developer_fundamentals">Android Developer Fundamentals</string>
+</resources>
